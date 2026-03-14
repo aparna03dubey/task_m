@@ -1,0 +1,37 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "TaskManagerAPI",
+    "collectionId": "3efcc20c-4417-4007-8a93-bc3d4c8d0b92",
+    "dateExported": "2026-03-14T17:38:59.929Z",
+    "version": "1.4",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "6767767d-86c4-4918-8d1c-e67e1e69b481",
+            "colId": "3efcc20c-4417-4007-8a93-bc3d4c8d0b92",
+            "containerId": "",
+            "name": " http://localhost:5000/api/v1/auth/register",
+            "url": "http://localhost:5000/api/v1/tasks",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2026-03-14T17:37:20.758Z",
+            "modified": "2026-03-14T17:37:20.758Z",
+            "headers": [
+                {
+                    "name": "Authorization",
+                    "value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YjU5Mjc4NWNkZTY0ZmZlOGNhODdlNCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzczNTA3MjExLCJleHAiOjE3NzM1OTM2MTF9.Se93bz7Qiyt1u9heeYKZmKnHMt7sDG1UPyDHWmpnyrA.eyJpZCI6IjY5YjU4NThmMTliZDlmYTIyYmNkOGU3MyIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzczNTAzOTM4LCJleHAiOjE3NzM1OTAzMzh9.eO2qZH-oFaSbGzVLvmc4AfqQ-yCL9NKV0cHico28CYs"
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": [
+                    "{\r",
+                    "\"title\":\"Updated Task\"\r",
+                    "}"
+                ],
+                "form": []
+            }
+        }
+    ],
+    "ref": "7XsFmjitoneZk0RwazkCVx_NGYnHhuM4TrWmEni_NIqRaxRm0tdIXAJ1kzUiSMvueL9PkirWmhYQwcm0Rwqk7w"
+}
